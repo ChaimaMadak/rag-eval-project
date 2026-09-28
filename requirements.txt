@@ -1,0 +1,31 @@
+# Ingestion / chunking
+pypdf
+langchain-text-splitters
+feedparser  # parsing 
+PyMupdf  # text extraction from PDFs
+
+# Embeddings
+sentence-transformers
+
+# Vector store 
+faiss-cpu
+# chromadb
+
+# LLM 
+# openai
+# huggingface_hub
+
+# evaluation
+ragas
+datasets
+
+# Utilities
+pandas
+matplotlib
+python-dotenv
+pyyaml
+tqdm
+
+# Tests
+pytest
+
